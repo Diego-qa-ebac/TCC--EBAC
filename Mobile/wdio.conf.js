@@ -54,7 +54,7 @@ exports.config = {
     // services: ['appium'],
     // port: 4723,
     // Use with BrowserStack
-    user: process.env.BROWSERSTACK_USERNAME || 'kelvinbobsin_eMaNzO',
+    user: process.env.BROWSERSTACK_USERNAME || 'diegoportella_eMaNzO',
     key: process.env.BROWSERSTACK_ACCESS_KEY || 'oUpTxKqE4fopusNszkUk',
     services: ['browserstack'],
     
